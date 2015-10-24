@@ -1,5 +1,5 @@
 env
 *.pyc
 *.egg-info
-
+*.txt
 *.sqlite3
