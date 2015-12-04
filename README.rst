@@ -25,7 +25,7 @@ Installing django-kittens is as simple as:
     pip install django-kittens
 
 It can be included in any Django app by adding ``'django-kittens'`` to
-you ``INSTALLED_APPS`` setting.
+your ``INSTALLED_APPS`` setting.
 
 This application can be further configured by adding some entries into
 your django settings module.
