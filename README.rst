@@ -1,6 +1,8 @@
 Django Kittens
 ==============
 
+blah
+
 Add kittens to your django project! This app collects kittens from the
 `/r/aww/`_ subreddit and displays them to users, who can then upvote or
 downvote them. It also provides a "top kittens page"
